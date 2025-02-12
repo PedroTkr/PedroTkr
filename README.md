@@ -4,4 +4,4 @@
 - 🌱 Estudando Python
 - 📫 Contate-me: Pedrotakara6@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Portifolio: 
+- ⚡ Portifolio: https://pedrotakara6.wixsite.com/pedro
